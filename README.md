@@ -1,6 +1,6 @@
-### o
+### textlint
 ---
-
+https://github.com/textlint/textlint
 
 ```
 ```
